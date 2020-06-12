@@ -1,1 +1,1 @@
-# Estrutura-de-Dados-Arvore-Bin-ria
+# Estrutura-de-Dados-Arvore-Binaria
